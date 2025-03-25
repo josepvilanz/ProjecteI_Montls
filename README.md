@@ -1,2 +1,3 @@
 # ProjecteI_Montls
-Fet per Josep Vila Nuñez
+Hecho por Josep Vila Nuñez
+Todos los documentos y archivos que han sido pedidos por Castillo se encuentran en el tablon del principio
